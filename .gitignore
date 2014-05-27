@@ -1,2 +1,7 @@
-.meteor/local
-.meteor/meteorite
+*.DS_Store
+
+
+bower_components/**
+node_modules/**
+.idea/
+
